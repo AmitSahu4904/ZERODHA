@@ -1,0 +1,20 @@
+# Ignore node_modules everywhere
+node_modules/
+
+# Ignore environment files everywhere
+.env
+.env.*
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment and node_modules in backend and frontend folders
+backend/node_modules/
+backend/.env
+backend/.env.*
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+dashboard/node_modules/
+dashboard/.env
+dashboard/.env.*
